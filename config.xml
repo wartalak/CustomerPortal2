@@ -7,14 +7,14 @@
 
   <!-- versionCode is optional and Android only -->
 
-  <name>Yoga with Local Database</name>
+  <name>Customer Portal</name>
   <preference name="stay-in-webview" value="true" />
   <preference name="EnableViewportScale" value="true" />
   <description>
     An example of a mobile app that pulls data from the network to a local database.
   </description>
 
-  <author href="https://labs.zenterp.co" email="me@stevenzeiler.com">
-    Steven Zeiler
+  <author href="www.sim-ant.com" >
+İsmail Yağcı
   </author>
 </widget>
